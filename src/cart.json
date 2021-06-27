@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "title" : "Shirt",
+        "price": 200,
+        "gender": "M",
+        "size": "S",
+        "brand":"Roadster",
+        "shirtImage": "https://rukminim1.flixcart.com/image/495/594/kmthz0w0/shirt/i/f/b/40-pjsfpssp507682-peter-england-original-imagfmw2sxuxtsqn.jpeg?q=50"
+        },
+    {
+        "id" : 2,
+        "title" : "Shirt",
+        "price": 300,
+        "gender": "M",
+        "size": "S",
+        "brand":"Roadster",
+        "shirtImage":"https://rukminim1.flixcart.com/image/495/594/jwmfcsw0/t-shirt/p/f/d/xxl-awt1020ol-aelomart-original-imaf7qdtbzggxbpu.jpeg?q=50"
+        }
+
+]
